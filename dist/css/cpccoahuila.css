@@ -1,0 +1,22 @@
+/*
+ * cpccoahuila.css
+ */
+
+header.masthead .page-heading h1,
+header.masthead .post-heading h1,
+header.masthead .site-heading h1 { font-size:42px; }
+header.masthead .page-heading h2,
+header.masthead .post-heading h2,
+header.masthead .site-heading h2 { font-size:32px; }
+header.masthead .page-heading h3,
+header.masthead .post-heading h3,
+header.masthead .site-heading h3 { font-size:28px; }
+header.masthead .page-heading h4,
+header.masthead .post-heading h4,
+header.masthead .site-heading h4 { font-size:24px; }
+header.masthead .page-heading h5,
+header.masthead .post-heading h5,
+header.masthead .site-heading h5 { font-size:18px; }
+header.masthead .page-heading h6,
+header.masthead .post-heading h6,
+header.masthead .site-heading h6 { font-size:16px; }
