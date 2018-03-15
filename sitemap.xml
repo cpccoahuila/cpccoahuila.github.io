@@ -5,13 +5,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/</loc>
-<lastmod>2018-03-14T11:48:21-00:00</lastmod>
+<lastmod>2018-03-15T13:11:56-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.cpccoahuila.org.mx/3de3/index.html</loc>
+<loc>http://www.cpccoahuila.org.mx/3de3/3de3.html</loc>
 <lastmod>2018-03-12T11:25:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -396,14 +396,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.cpccoahuila.org.mx/contacto/index.html</loc>
+<loc>http://www.cpccoahuila.org.mx/contacto/contacto.html</loc>
 <lastmod>2018-02-07T15:55:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.cpccoahuila.org.mx/transparencia/index.html</loc>
+<loc>http://www.cpccoahuila.org.mx/transparencia/transparencia.html</loc>
 <lastmod>2018-03-08T12:13:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
