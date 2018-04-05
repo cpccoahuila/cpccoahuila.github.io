@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/</loc>
-<lastmod>2018-04-05T14:30:47-00:00</lastmod>
+<lastmod>2018-04-05T15:10:32-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -410,6 +410,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.cpccoahuila.org.mx/comunicados/2018-015-segunda-sesion-ordinaria.html</loc>
+<lastmod>2018-04-04T15:25:00-05:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
 <loc>http://www.cpccoahuila.org.mx/comunicados/2018-014-union-organismos-empresariales-coahuila-sureste.html</loc>
 <lastmod>2018-04-03T17:25:00-05:00</lastmod>
 <changefreq>always</changefreq>
@@ -558,7 +565,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/category/comunicados.html</loc>
-<lastmod>2018-04-03T17:25:00-06:37</lastmod>
+<lastmod>2018-04-04T15:25:00-06:37</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
