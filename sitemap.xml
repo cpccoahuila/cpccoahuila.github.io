@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/</loc>
-<lastmod>2018-04-05T15:10:32-00:00</lastmod>
+<lastmod>2018-04-09T23:17:46-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -410,6 +410,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.cpccoahuila.org.mx/comunicados/2018-017-presentacion-candidatura-transparente.html</loc>
+<lastmod>2018-12-31T23:59:00-06:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
 <loc>http://www.cpccoahuila.org.mx/comunicados/2018-015-segunda-sesion-ordinaria.html</loc>
 <lastmod>2018-04-04T15:25:00-05:00</lastmod>
 <changefreq>always</changefreq>
@@ -565,7 +572,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/category/comunicados.html</loc>
-<lastmod>2018-04-04T15:25:00-06:37</lastmod>
+<lastmod>2018-12-31T23:59:00-06:37</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
