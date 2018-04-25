@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/</loc>
-<lastmod>2018-04-16T14:31:13-00:00</lastmod>
+<lastmod>2018-04-25T12:45:35-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -410,6 +410,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.cpccoahuila.org.mx/comunicados/2018-019-segunda-sesion-ordinaria-organo-de-gobierno.html</loc>
+<lastmod>2018-04-24T15:42:00-05:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
 <loc>http://www.cpccoahuila.org.mx/comunicados/2018-04-13-reunion-tribunal-superior-justicia-saltillo.html</loc>
 <lastmod>2018-04-13T16:59:00-05:00</lastmod>
 <changefreq>always</changefreq>
@@ -579,7 +586,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/category/comunicados.html</loc>
-<lastmod>2018-04-13T16:59:00-06:37</lastmod>
+<lastmod>2018-04-24T15:42:00-06:37</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
