@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/</loc>
-<lastmod>2018-07-18T15:15:18-00:00</lastmod>
+<lastmod>2018-08-30T17:09:56-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -22,6 +22,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2018-02-07T15:55:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.cpccoahuila.org.mx/comunicados/2018-08-22-sexta-sesion-extraordinaria-comision-ejecutiva/</loc>
+<lastmod>2018-08-30T15:55:00-05:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.cpccoahuila.org.mx/comunicados/2018-07-17-tercera-sesion-ordinaria-comision-ejecutiva/</loc>
+<lastmod>2018-08-30T15:36:00-05:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
 </url>
 
 <url>
@@ -62,6 +76,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.cpccoahuila.org.mx/comunicados/2018-06-21-primer-seminario-nacional-vinculacion-sna-fiscalizacion-transparencia/</loc>
 <lastmod>2018-06-21T22:29:00-05:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.cpccoahuila.org.mx/comunicados/2018-06-20-cuarta-sesion-extraordinaria-comision-ejecutiva/</loc>
+<lastmod>2018-08-30T15:54:00-05:00</lastmod>
 <changefreq>always</changefreq>
 <priority>1</priority>
 </url>
@@ -151,8 +172,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.cpccoahuila.org.mx/comunicados/2018-04-02-segunda-sesion-ordinaria/</loc>
-<lastmod>2018-05-24T18:38:00-05:00</lastmod>
+<loc>http://www.cpccoahuila.org.mx/comunicados/2018-04-02-segunda-sesion-ordinaria-comision-ejecutiva/</loc>
+<lastmod>2018-08-30T15:35:00-05:00</lastmod>
 <changefreq>always</changefreq>
 <priority>1</priority>
 </url>
@@ -173,7 +194,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/comunicados/2018-03-15-segunda-sesion-extraordinaria-comision-ejecutiva/</loc>
-<lastmod>2018-05-24T18:35:00-05:00</lastmod>
+<lastmod>2018-07-13T10:30:00-05:00</lastmod>
 <changefreq>always</changefreq>
 <priority>1</priority>
 </url>
@@ -228,8 +249,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.cpccoahuila.org.mx/comunicados/2018-01-30-primera-sesion-ordinaria/</loc>
-<lastmod>2018-05-24T18:31:00-05:00</lastmod>
+<loc>http://www.cpccoahuila.org.mx/comunicados/2018-01-30-primera-sesion-ordinaria-comision-ejecutiva/</loc>
+<lastmod>2018-08-30T15:35:00-05:00</lastmod>
 <changefreq>always</changefreq>
 <priority>1</priority>
 </url>
@@ -299,7 +320,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/category/comunicados.html</loc>
-<lastmod>2018-07-16T15:45:00-06:37</lastmod>
+<lastmod>2018-08-30T15:55:00-06:37</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
