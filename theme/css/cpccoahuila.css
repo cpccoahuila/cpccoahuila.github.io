@@ -2,6 +2,10 @@
  * cpccoahuila.css
  */
 
+body,
+p,
+ul li,
+ol li                                      { font-size: 16px; }
 header.masthead                            { margin-bottom: 12px; }
 header.masthead .post-heading,
 header.masthead .site-heading              { padding: 72px 0 16px 0; }
@@ -27,17 +31,19 @@ header.masthead .page-heading h4,
 header.masthead .post-heading h4,
 header.masthead .site-heading h4,
 header.masthead .site-heading .subheading  { font-size: 16px; }
-p,
-ul li                                      { font-size: 16px; }
 footer .copyright                          { font-size: 14px; }
 
 @media only screen and (max-width: 800px) {
+  body,
+  p,
+  ul li,
+  ol li                                      { font-size: 14px; }
+  p                                          { margin: 8px 0; }
   header.masthead                            { margin-bottom: 8px; }
   header.masthead .post-heading,
   header.masthead .site-heading              { padding: 72px 0 12px 0; }
   header.masthead .post-heading .subheading,
   header.masthead .site-heading .subheading  { margin: 8px 0 8px 0; }
-  p                                          { margin: 8px 0; }
   h1,
   header.masthead .page-heading h1,
   header.masthead .post-heading h1,
@@ -57,18 +63,20 @@ footer .copyright                          { font-size: 14px; }
   header.masthead .post-heading h4,
   header.masthead .site-heading h4,
   header.masthead .site-heading .subheading  { font-size: 14px; }
-  p,
-  ul li                                      { font-size: 14px; }
   footer .copyright                          { font-size: 12px; }
 }
 
 @media only screen and (max-width: 480px) {
+  body,
+  p,
+  ul li,
+  ol li                                      { font-size: 12px; }
+  p                                          { margin: 6px 0; }
   header.masthead                            { margin-bottom: 4px; }
   header.masthead .post-heading,
   header.masthead .site-heading              { padding: 72px 0 8px 0; }
   header.masthead .post-heading .subheading,
   header.masthead .site-heading .subheading  { margin: 6px 0 6px 0; }
-  p                                          { margin: 6px 0; }
   h1,
   header.masthead .page-heading h1,
   header.masthead .post-heading h1,
@@ -88,7 +96,5 @@ footer .copyright                          { font-size: 14px; }
   header.masthead .post-heading h4,
   header.masthead .site-heading h4,
   header.masthead .site-heading .subheading  { font-size: 12px; }
-  p,
-  ul li                                      { font-size: 12px; }
   footer .copyright                          { font-size: 10px; }
 }
