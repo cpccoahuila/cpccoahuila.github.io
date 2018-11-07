@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/</loc>
-<lastmod>2018-11-05T13:45:30-00:00</lastmod>
+<lastmod>2018-11-07T10:17:23-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -26,7 +26,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/documentos/2018-10-convocatoria/</loc>
-<lastmod>2018-11-05T12:46:00-06:00</lastmod>
+<lastmod>2018-11-07T10:11:00-06:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.cpccoahuila.org.mx/comunicados/2018-11-05-reunion-canacintra/</loc>
+<lastmod>2018-11-07T09:55:00-06:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.cpccoahuila.org.mx/comunicados/2018-11-05-reunion-canaco-servytur/</loc>
+<lastmod>2018-11-07T09:55:00-06:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.cpccoahuila.org.mx/comunicados/2018-11-05-reunion-uane/</loc>
+<lastmod>2018-11-07T09:55:00-06:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.cpccoahuila.org.mx/comunicados/2018-11-05-reunion-canieti-cmic/</loc>
+<lastmod>2018-11-07T09:55:00-06:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>http://www.cpccoahuila.org.mx/comunicados/2018-11-05-reunion-canirac-gel/</loc>
+<lastmod>2018-11-07T09:55:00-06:00</lastmod>
 <changefreq>always</changefreq>
 <priority>1</priority>
 </url>
@@ -355,14 +390,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/category/comunicados.html</loc>
-<lastmod>2018-11-05T13:20:00-06:37</lastmod>
+<lastmod>2018-11-07T09:55:00-06:37</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.cpccoahuila.org.mx/category/documentos.html</loc>
-<lastmod>2018-11-05T12:46:00-06:37</lastmod>
+<lastmod>2018-11-07T10:11:00-06:37</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
