@@ -1,0 +1,137 @@
+/* CPC Coahuila 2019-02 */
+
+/* Global */
+body {
+    font-size: 16px;
+    font-family: 'Lora', 'Times New Roman', serif;
+    background-color: #FFF;
+}
+p {
+    margin: 12px 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 800;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+h1 { font-size: 24px; }
+h2 { font-size: 20px; }
+h3 { font-size: 18px; }
+h4 { font-size: 16px; }
+h5 { font-size: 16px; }
+h6 { font-size: 16px; }
+a          { color: #222222; text-decoration: none; }
+a:hover,
+a:focus    { color: #444444; text-decoration: underline; }
+a:active,
+a:visited  { color: #222222; text-decoration: none; }
+
+/* Navegacion */
+#mainNav {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #383550;
+}
+#mainNav .navbar-brand {
+    font-weight: 800;
+}
+#mainNav .navbar-toggler {
+    font-size: 14px;
+    font-weight: 800;
+}
+#mainNav .navbar-nav > li.nav-item > a {
+    font-size: 14px;
+    font-weight: 800;
+}
+
+/* Cabecera */
+header {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 36px 0;
+}
+header.masterHead {
+    position: relative;
+    background-color: #FFF;
+    background: no-repeat center center;
+    background-image: url('../images/comun.jpg');
+    color: #222;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+header.masterHead .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #FFF;
+    opacity: 0.8;
+}
+header.masterHead .post-heading,
+header.masterHead .site-heading {
+    margin-bottom: 8px;
+    font-weight: 700;
+    font-size: 16px;
+}
+header.masterHead .post-heading .subheading,
+header.masterHead .site-heading .subheading  {
+    margin-bottom: 8px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+/* Consejeros */
+#consejeros {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #d5dcbb; /* #e7f4b2; */
+    padding: 36px 0;
+}
+.consejero           { text-align: center; margin: 12px 0; }
+.consejero h4.nombre { line-height: 1.0; margin-bottom: 0; }
+.consejero p.puesto  { margin: 0; }
+
+/* Indice */
+#indice       {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 36px 0;
+}
+.post-preview {}
+.post-title   { font-weight: 800; }
+.post-summary { font-weight: 300; }
+
+/* Paginacion */
+#paginacion         { font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+a.page-link         { color: #222222; }
+a.page-link:hover,
+a.page-link:focus   { color: #444444; }
+a.page-link:active,
+a.page-link:visited { color: #222222; }
+
+/* Articulos */
+.article-post { padding: 36px 0; }
+
+/* Paginas */
+.page-post { padding: 36px 0; }
+
+/* Tablas */
+table         { font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; width: 100%; }
+table, th, td { border: 1px solid #888; }
+th            { padding: 2px; text-align: center; }
+td            { padding: 2px; }
+
+/* Footer */
+footer            {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 36px 0;
+    background-color: #c7e0df;
+}
+footer .saec      { margin: 12px 0; }
+footer .social    { margin: 12px 0; }
+footer .copyright { margin: 12px 0; font-size: 14px; }
+
+/* Responsivo */
