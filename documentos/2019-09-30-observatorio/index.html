@@ -117,7 +117,7 @@
 
         <section class="indicadores-grupo" id="indicadores-percepcion">
             <div class="indicadores-recuadro">
-                <h2 class="display-3" style="margin-bottom: 24px;">Percepción</h2>
+                <h2 class="display-3 indicadores-grupo-titulo" style="margin-bottom: 24px;">Percepción</h2>
                 <div class="card-deck mb-3 text-center indicadores-cards">
                     <div class="card mb-4 shadow-sm">
                         <div class="card-header">
@@ -152,7 +152,7 @@
         </section>
         <section class="indicadores-grupo" id="indicadores-corrupcion-administrativa">
             <div class="indicadores-recuadro">
-                <h2 class="display-3" style="margin-bottom: 24px;">Corrupción Administrativa</h2>
+                <h2 class="display-3 indicadores-grupo-titulo" style="margin-bottom: 24px;">Corrupción Administrativa</h2>
                 <div class="card-deck mb-3 text-center indicadores-cards">
                     <div class="card mb-4 shadow-sm">
                         <div class="card-header">
@@ -201,7 +201,7 @@
         </section>
         <section class="indicadores-grupo" id="indicadores-impunidad">
             <div class="indicadores-recuadro">
-                <h2 class="display-3" style="margin-bottom: 24px;">Impunidad</h2>
+                <h2 class="display-3 indicadores-grupo-titulo" style="margin-bottom: 24px;">Impunidad</h2>
                 <div class="card-deck mb-3 text-center indicadores-cards">
                     <div class="card mb-4 shadow-sm">
                         <div class="card-header">
@@ -263,7 +263,7 @@
         </section>
         <section class="indicadores-grupo" id="indicadores-empresarial">
             <div class="indicadores-recuadro">
-                <h2 class="display-3" style="margin-bottom: 24px;">Empresarial</h2>
+                <h2 class="display-3 indicadores-grupo-titulo" style="margin-bottom: 24px;">Empresarial</h2>
                 <div class="card-deck mb-3 text-center indicadores-cards">
                     <div class="card mb-4 shadow-sm">
                         <div class="card-header">
@@ -273,7 +273,7 @@
                             <h1 class="card-title indicadores-valor">80.2%<small class="text-muted"> en 2016</small></h1>
                             <ul class="list-unstyled mt-3 mb-4">
                                 <li>Lugar: <b>17</b></li>
-                                <li>Valor nacional: <b>36.7%</b></li>
+                                <li>Valor nacional: <b>82.2%</b></li>
                                 <li>Estado líder: <b>Colima 62.2%</b></li>
                             </ul>
                             <p class="text-muted indicadores-fuente">INEGI. Encuesta Nacional de Calidad Regulatoria e Impacto Gubernamental en las Empresas</p>
@@ -298,7 +298,7 @@
         </section>
         <section class="indicadores-grupo" id="indicadores-compuestos">
             <div class="indicadores-recuadro">
-                <h2 class="display-3" style="margin-bottom: 24px;">Compuestos</h2>
+                <h2 class="display-3 indicadores-grupo-titulo" style="margin-bottom: 24px;">Compuestos</h2>
                 <div class="card-deck mb-3 text-center indicadores-cards">
                     <div class="card mb-4 shadow-sm">
                         <div class="card-header">
@@ -470,6 +470,15 @@
             #indicadores-empresarial { background-color: #4783cc; }
             #indicadores-compuestos { background-color: #8996a6; }
             .indicadores-notas { margin: 48px 24px; }
+            @media only screen and (max-width: 990px) {
+                .indicadores-grupo-titulo { font-size: 2.8em; }
+            }
+            @media only screen and (max-width: 580px) {
+                .indicadores-grupo-titulo { font-size: 1.8em; }
+            }
+            @media only screen and (max-width: 300px) {
+                .indicadores-grupo-titulo { font-size: 1.2em; }
+            }
         </style>
     
                 <p class="text-muted">30 septiembre 2019</p>
