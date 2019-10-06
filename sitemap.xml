@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.cpccoahuila.org.mx/</loc>
-<lastmod>2019-10-01T14:54:09-00:00</lastmod>
+<lastmod>2019-10-06T15:13:32-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -26,7 +26,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.cpccoahuila.org.mx/consejeros/ana-yuri-solis-gaona/</loc>
-<lastmod>2019-02-27T09:42:00-06:00</lastmod>
+<lastmod>2019-10-05T17:15:00-05:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -40,7 +40,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.cpccoahuila.org.mx/contacto/contacto/</loc>
-<lastmod>2018-10-15T11:20:00-05:00</lastmod>
+<lastmod>2019-10-06T15:10:00-05:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -68,7 +68,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.cpccoahuila.org.mx/consejeros/maria-de-lourdes-koster-lopez/</loc>
-<lastmod>2019-02-27T09:42:00-06:00</lastmod>
+<lastmod>2019-10-06T15:08:00-05:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.cpccoahuila.org.mx/consejeros/miguel-francisco-crespo-alvarado/</loc>
+<lastmod>2019-10-06T15:12:00-05:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
