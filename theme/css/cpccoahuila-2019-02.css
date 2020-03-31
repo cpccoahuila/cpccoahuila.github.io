@@ -24,11 +24,11 @@ h3 { font-size: 18px; }
 h4 { font-size: 16px; }
 h5 { font-size: 16px; }
 h6 { font-size: 16px; }
-a          { color: #222222; text-decoration: none; }
+a          { color: #574cb3; text-decoration: none; }
 a:hover,
-a:focus    { color: #444444; text-decoration: underline; }
+a:focus    { color: #574cb3; text-decoration: underline; }
 a:active,
-a:visited  { color: #222222; text-decoration: none; }
+a:visited  { color: #574cb3; text-decoration: none; }
 
 /* Navegacion */
 #mainNav {
@@ -88,7 +88,7 @@ header.masterHead .site-heading .subheading  {
 /* Consejeros */
 #consejeros {
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    background-color: #d5dcbb; /* #e7f4b2; */
+    background-color: #d5dcbb;
     padding: 36px 0;
 }
 .consejero           { text-align: center; margin: 12px 0; }
@@ -103,6 +103,9 @@ header.masterHead .site-heading .subheading  {
 .post-preview {}
 .post-title   { font-weight: 800; }
 .post-summary { font-weight: 300; }
+
+/* Convocatoria */
+#convocatoria { padding: 36px 0; background-color: #d9e0e0; }
 
 /* Paginacion */
 #paginacion         { font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
