@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.cpccoahuila.org.mx/</loc>
-<lastmod>2020-04-29T14:30:06-00:00</lastmod>
+<lastmod>2020-05-07T14:50:45-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -78,6 +78,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2019-10-06T15:12:00-05:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.cpccoahuila.org.mx/comunicados/2020-05-05-comunicado-norte-cpc-coahuila-nuevo-leon-tamaulipas/</loc>
+<lastmod>2020-05-07T13:30:00-05:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
 </url>
 
 <url>
