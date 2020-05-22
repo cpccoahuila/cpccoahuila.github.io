@@ -1,0 +1,223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTAll",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web"
+	],
+	"file_history":
+	[
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-05-13-comunicado-cpc-coahuila-campeche.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-05-13-comunicado-norte-cpc-coahuila-nuevo-leon-tamaulipas.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-05-05-comunicado-norte-cpc-coahuila-nuevo-leon-tamaulipas.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-04-28-comunicado-norte-cpc-coahuila-nuevo-leon-tamaulipas.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-04-22-comunicado-norte-cpc-coahuila-nuevo-leon-tamaulipas.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2019-05-17-tercera-reunion-presidentes-estatales.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-03-27-recomendacion-cpc-covid-19.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2018-11-09-etapa-entrevistas-terna-st.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2018-09-13-segunda-sesion-extraordinaria-organo-de-gobierno.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2018-07-12-reunion-usaid-sea-osc-universidades.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2018-04-27-reunion-consejos-comites-participacion-ciudadana-guadalajara.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2018-11-05-reunion-uane.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2018-11-05-reunion-canieti-cmic.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/comunicados/2020-03-19-postura-sesaec-covid.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/transparencia/art-21-09-convenios-de-colaboracion.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/themes/seacoahuila-2019-02/templates/start-page-carrusel.html",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/comunicados/2019-09-23-acuerdo-formato-declaraciones.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/transparencia/art-20-calendario-de-ipo.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/transparencia/art-21-02-marco-normativo.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/publicaciones.html",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/publicaciones/azimut-2020-01.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/secretaria-ejecutiva.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/publicaciones/azimut-2019-09.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/publicaciones/azimut-2019-05.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/transparencia-lgcg/informacion-adicional.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/transparencia/art-21-16-beneficiarios-de-subsidios-estimulos-y-apoyos.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/transparencia/art-21-25-informes-financieros-y-cuenta-publica.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/transparencia-lgcg/ley-de-disciplina-financiera.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/transparencia-lgcg/informacion-programatica.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/transparencia-lgcg/informacion-presupuestal.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/transparencia-lgcg/informacion-contable.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/infografias/buenas-practicas-usaid-infografia.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/infografias.html",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/infografias/declaraciones-patrimoniales-intereses-infografia.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/transparencia/art-21-24-solicitudes-y-respuestas.html",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/datos/segundo-reporte-estadistico.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/datos.html",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/datos/primer-reporte-estadistico-percepcion-victimizacion-desempeño-instituciones.md",
+		"/home/ednamartinez/Documentos/GitHub/SEACoahuila/plataforma.web/content/secretaria-ejecutiva/datos/encuesta-percepcion-corrupcion-2019-06.md"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CPC.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Escritorio/SEACOAHUILA.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 453.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
