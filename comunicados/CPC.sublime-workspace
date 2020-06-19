@@ -69,8 +69,11 @@
 	],
 	"file_history":
 	[
-		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2018-02-19-reunion-uaaan.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/index.html",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-06-18-bases-convocatoria-st-sesaec.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-convocatoria-st.html",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-06-17-convocatoria-st-sesaec.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2018-02-19-reunion-uaaan.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-05-19-comunicado-norte-cpc-coahuila-nuevo-leon-tamaulipas.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-05-22-comunicado-con-relacion-a-resultados-encig.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-04-22-comunicado-norte-cpc-coahuila-nuevo-leon-tamaulipas.md",
@@ -152,7 +155,7 @@
 				{
 					"buffer": 0,
 					"file": "/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-plan-de-trabajo.html",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 460,
