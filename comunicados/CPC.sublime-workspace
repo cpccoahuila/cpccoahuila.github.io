@@ -8,19 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "2020-06-18-bases-convocatoria-st-sesaec.md",
+			"file": "2020-06-26-comunicado-webinar-covid.md",
 			"settings":
 			{
-				"buffer_size": 751,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "2020-06-17-convocatoria-st-sesaec.md",
-			"settings":
-			{
-				"buffer_size": 575,
+				"buffer_size": 4294,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -72,14 +63,17 @@
 	[
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content",
-		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados"
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates"
 	],
 	"file_history":
 	[
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/index.html",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-06-18-bases-convocatoria-st-sesaec.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-06-17-convocatoria-st-sesaec.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-webinar.html",
-		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/index.html",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-convocatoria-st.html",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-06-22-webinar-transparencia-proactiva.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-plan-de-trabajo.html",
@@ -164,19 +158,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "2020-06-18-bases-convocatoria-st-sesaec.md",
+					"file": "2020-06-26-comunicado-webinar-covid.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 751,
+						"buffer_size": 4294,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								537,
-								751
+								1869,
+								1869
 							]
 						],
 						"settings":
@@ -188,34 +182,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "2020-06-17-convocatoria-st-sesaec.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 575,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								291,
-								291
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
