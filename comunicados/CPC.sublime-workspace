@@ -7,15 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "2020-06-26-comunicado-webinar-covid.md",
-			"settings":
-			{
-				"buffer_size": 4294,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -62,19 +53,21 @@
 	"expanded_folders":
 	[
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web",
-		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content",
-		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates"
 	],
 	"file_history":
 	[
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-06-26-comunicado-webinar-covid.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-07-03-comunicado-gestion-por-competencias.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-convocatoria-st.html",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-07-08-acuerdo-de-ampliacion.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-acuerdo-de-ampliacion.html",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/index.html",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-06-18-bases-convocatoria-st-sesaec.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-06-17-convocatoria-st-sesaec.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-webinar.html",
-		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-convocatoria-st.html",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-06-22-webinar-transparencia-proactiva.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-plan-de-trabajo.html",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2018-02-19-reunion-uaaan.md",
@@ -153,37 +146,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "2020-06-26-comunicado-webinar-covid.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4294,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1869,
-								1869
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
