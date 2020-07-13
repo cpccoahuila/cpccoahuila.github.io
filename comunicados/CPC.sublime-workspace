@@ -7,6 +7,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "2020-07-10-metodologia-para-la-valoracion-de-los-expedientes.md",
+			"settings":
+			{
+				"buffer_size": 518,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/documentos/2018-11-14-metodologia-para-la-valoracion-de-los-expedientes.md",
+			"settings":
+			{
+				"buffer_size": 14874,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -53,18 +71,24 @@
 	"expanded_folders":
 	[
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/static",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates"
 	],
 	"file_history":
 	[
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-07-08-acuerdo-de-ampliacion.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-acuerdo-de-ampliacion.html",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-07-11-candidatos-aspirante-st.md",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/index.html",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-candidatos-terna-st.html",
+		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/documentos/2018-11-14-metodologia-para-la-valoracion-de-los-expedientes.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-06-26-comunicado-webinar-covid.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-07-03-comunicado-gestion-por-competencias.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-convocatoria-st.html",
-		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-07-08-acuerdo-de-ampliacion.md",
-		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-acuerdo-de-ampliacion.html",
-		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/index.html",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-06-18-bases-convocatoria-st-sesaec.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/comunicados/2020-06-17-convocatoria-st-sesaec.md",
 		"/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/themes/cpccoahuila-2019-02/templates/start-page-webinar.html",
@@ -146,8 +170,67 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "2020-07-10-metodologia-para-la-valoracion-de-los-expedientes.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/ednamartinez/Documentos/GitHub/CPCCoahuila/plataforma.web/content/documentos/2018-11-14-metodologia-para-la-valoracion-de-los-expedientes.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -157,7 +240,7 @@
 	},
 	"input":
 	{
-		"height": 43.0
+		"height": 46.0
 	},
 	"layout":
 	{
