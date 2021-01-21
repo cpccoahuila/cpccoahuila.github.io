@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.cpccoahuila.org.mx/</loc>
-<lastmod>2020-11-20T14:27:54-00:00</lastmod>
+<lastmod>2021-01-21T09:43:51-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -78,6 +78,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2020-11-15T15:08:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.cpccoahuila.org.mx/documentos/2021-sesiones-cpc/</loc>
+<lastmod>2021-01-19T13:22:00-06:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://www.cpccoahuila.org.mx/documentos/transmision-en-vivo/</loc>
+<lastmod>2021-01-19T13:22:00-06:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
 </url>
 
 <url>
