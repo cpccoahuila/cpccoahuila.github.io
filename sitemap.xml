@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.cpccoahuila.org.mx/</loc>
-<lastmod>2021-10-08T10:44:28-00:00</lastmod>
+<lastmod>2021-10-11T15:01:00-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -61,6 +61,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.cpccoahuila.org.mx/consejeros/juan-adolfo-von-bertrab-saracho/</loc>
+<lastmod>2019-02-27T09:42:00-06:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.cpccoahuila.org.mx/consejeros/juan-carlos-guzman-escobedo/</loc>
 <lastmod>2019-02-27T09:42:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
