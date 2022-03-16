@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.cpccoahuila.org.mx/</loc>
-<lastmod>2022-03-10T16:35:29-00:00</lastmod>
+<lastmod>2022-03-16T17:01:56-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -81,17 +81,17 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.cpccoahuila.org.mx/consejeros/yolanda-guadalupe-montes-martinez/</loc>
-<lastmod>2020-11-15T15:08:00-06:00</lastmod>
+<loc>https://www.cpccoahuila.org.mx/osc/osc/</loc>
+<lastmod>2022-03-10T17:00:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.cpccoahuila.org.mx/rc/rc/</loc>
-<lastmod>2022-03-22T11:00:00-06:00</lastmod>
-<changefreq>always</changefreq>
-<priority>1</priority>
+<loc>https://www.cpccoahuila.org.mx/consejeros/yolanda-guadalupe-montes-martinez/</loc>
+<lastmod>2020-11-15T15:08:00-06:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
 </url>
 
 <url>
