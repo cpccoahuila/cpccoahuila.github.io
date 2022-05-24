@@ -56,7 +56,7 @@ header.masterHead {
     position: relative;
     background-color: #FFF;
     background: no-repeat center center;
-    background-image: url('../images/comun.jpg');
+    /*background-image: url('../images/comun.jpg');*/
     color: #222;
     -webkit-background-size: cover;
     -moz-background-size: cover;
