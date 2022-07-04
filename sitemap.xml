@@ -5,11 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.cpccoahuila.org.mx/</loc>
-<<<<<<< HEAD
-<lastmod>2022-06-27T16:29:22-00:00</lastmod>
-=======
-<lastmod>2022-06-27T17:01:25-00:00</lastmod>
->>>>>>> a6f48ec69aa00b9532a98bdb803a094abaac67ca
+<lastmod>2022-07-04T17:15:51-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -131,6 +127,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2020-11-15T15:08:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.cpccoahuila.org.mx/comunicados/2022-06-23-boletin-reunion-con-universidades/</loc>
+<lastmod>2022-07-04T16:44:00-05:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
 </url>
 
 <url>
