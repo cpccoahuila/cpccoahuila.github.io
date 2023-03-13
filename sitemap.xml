@@ -5,20 +5,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.cpccoahuila.org.mx/</loc>
-<lastmod>2023-01-13T12:45:06-00:00</lastmod>
+<lastmod>2023-03-13T06:26:26-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.cpccoahuila.org.mx/3de3/3de3/</loc>
+<loc>https://www.cpccoahuila.org.mx/transparencia/3de3/</loc>
 <lastmod>2020-01-13T12:02:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.cpccoahuila.org.mx/acuerdos/acuerdos/</loc>
+<loc>https://www.cpccoahuila.org.mx/transparencia/actas/</loc>
+<lastmod>2023-03-10T10:00:00-06:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.cpccoahuila.org.mx/transparencia/acuerdos/</loc>
 <lastmod>2023-01-13T12:00:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -88,7 +95,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.cpccoahuila.org.mx/informesanuales/informesanuales/</loc>
+<loc>https://www.cpccoahuila.org.mx/transparencia/informesanuales/</loc>
 <lastmod>2022-08-18T17:00:00-05:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -137,7 +144,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.cpccoahuila.org.mx/marcolegal/marcolegal/</loc>
+<loc>https://www.cpccoahuila.org.mx/transparencia/marcolegal/</loc>
 <lastmod>2022-10-22T11:00:00-05:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -172,7 +179,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.cpccoahuila.org.mx/planes/planes/</loc>
+<loc>https://www.cpccoahuila.org.mx/transparencia/planes/</loc>
 <lastmod>2023-01-13T12:00:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -181,6 +188,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.cpccoahuila.org.mx/proceso2022/proceso2022/</loc>
 <lastmod>2022-11-03T17:00:00-06:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.cpccoahuila.org.mx/transparencia/programas/</loc>
+<lastmod>2023-01-13T12:00:00-06:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.cpccoahuila.org.mx/transparencia/transparencia/</loc>
+<lastmod>2022-03-05T10:22:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
