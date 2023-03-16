@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.cpccoahuila.org.mx/</loc>
-<lastmod>2023-03-16T01:15:13-00:00</lastmod>
+<lastmod>2023-03-16T17:51:08-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -41,6 +41,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.cpccoahuila.org.mx/consejeros/ana-yuri-solis-gaona/</loc>
 <lastmod>2019-10-05T17:15:00-05:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.cpccoahuila.org.mx/transparencia/calendariosesiones/</loc>
+<lastmod>2023-03-16T17:00:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
