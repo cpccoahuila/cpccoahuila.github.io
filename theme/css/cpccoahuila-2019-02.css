@@ -39,12 +39,15 @@ a:visited  { color: #574cb3; text-decoration: none; }
     font-weight: 800;
 }
 #mainNav .navbar-toggler {
-    font-size: 14px;
-    font-weight: 800;
+    font-size: 13px;
+    font-weight: 600;
 }
 #mainNav .navbar-nav > li.nav-item > a {
-    font-size: 14px;
-    font-weight: 800;
+    font-size: 13px;
+    font-weight: 700;
+}
+#mainNav .dropdown-menu {
+    font-size: 0.8rem;
 }
 
 /* Cabecera */
@@ -69,8 +72,8 @@ header.masterHead .overlay {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: #FFF;
-    opacity: 0.8;
+    /* background-color: #FFF;
+    opacity: 0.8; */
 }
 header.masterHead .post-heading,
 header.masterHead .site-heading {
@@ -131,7 +134,7 @@ td            { padding: 2px; }
 footer            {
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     padding: 36px 0;
-    background-color: #c7e0df;
+    background-color: #623066;
 }
 footer .saec         { margin: 12px 0; }
 footer .social       { margin: 12px 0; }
